@@ -292,7 +292,7 @@ Ready to begin your blockchain journey? Follow these steps:
 2. **Set Up Your Learning Environment** 💻
    ```bash
    # Clone this repository
-   git clone https://github.com/lewiii254/BlockChain-Mastery.git
+   git clone https://github.com/mwakidenis/BlockChain-Mastery.git
    cd BlockChain-Mastery
    
    # Install Node.js (if not already installed)
